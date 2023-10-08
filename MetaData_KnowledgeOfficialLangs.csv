@@ -1,0 +1,6 @@
+﻿Dimension ID,Member Name,Classification Code,Member ID,Parent Member ID,Terminated,Member Notes,Member Correction Notes,Member Geo Attribute Keys,Member Definitions
+5,Total - Knowledge of official languages,,1,,,10,,,
+5,English only,,2,1,,,,,
+5,French only,,3,1,,,,,
+5,English and French,,4,1,,,,,
+5,Neither English nor French,,5,1,,,,,
